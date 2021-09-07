@@ -1,0 +1,25 @@
+{
+  "name": "be-express-overlycomplexcounter-mariagluck",
+  "version": "1.0.0",
+  "description": "Create an Express server, which will simply keep track of a single number. Your server will have four endpoints:",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/be-express-overlycomplexcounter-mariagluck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/be-express-overlycomplexcounter-mariagluck/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/be-express-overlycomplexcounter-mariagluck#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "killable": "^1.0.1"
+  }
+}
